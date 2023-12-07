@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+// new new
 class ShowResultViewController: UIViewController {
     
     var resStr: String?
